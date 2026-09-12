@@ -78,7 +78,7 @@ export default function Home() {
         <p className="mb-5 mt-2 font-instrument text-[50px] font-normal md:mb-[35px] md:mt-10 md:text-[80px]">
           Our Services
         </p>
-        <p className="mx-auto max-w-none px-2 text-left font-newsreader text-xl leading-snug md:max-w-[1200px] md:px-0 md:text-center md:text-[30px]">
+        <p className="mx-auto max-w-none px-2 text-center font-newsreader text-xl leading-snug md:max-w-[1200px] md:px-0 md:text-center md:text-[30px]">
           Whether you're just starting out, rebranding, or simply refining your
           digital presence, we offer thoughtful, handcrafted solutions tailored to your
           needs. From custom websites to detailed audits, we approach every project with

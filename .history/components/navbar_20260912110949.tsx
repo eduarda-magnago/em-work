@@ -28,7 +28,7 @@ export default function Navbar() {
 
   return (
     <nav
-      className={`fixed md:relative top-0 left-0 w-full z-[9990] px-7 md:px-[60px] transition-all duration-300 md:!bg-transparent md:!py-[30px] ${
+      className={`fixed md:relative top-0 left-0 w-full z-[9990] px-5 md:px-[60px] transition-all duration-300 md:!bg-transparent md:!py-[30px] ${
         scrolled ? "bg-white py-3" : "bg-transparent py-7"
       }`}
     >

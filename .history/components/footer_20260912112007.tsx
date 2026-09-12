@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <footer className="bg-charcoal px-6 pb-10 pt-12 text-white md:px-[60px] md:pb-[30px] md:pt-20">
+    <footer className="bg-charcoal px-6 pb-[30px] pt-12 text-white md:px-[60px] md:pt-20">
       <div className="flex flex-col gap-10 md:flex-row md:flex-wrap md:items-center md:gap-10">
         <div className="min-w-[200px] flex-[1.5] font-instrument text-[80px] leading-none md:text-[130px]">
           <Link href="/#home">E.M.</Link>
@@ -50,7 +50,7 @@ export default function Footer() {
 
       <div className="my-[30px] border-t border-[#aaa] md:my-[50px]" />
 
-      <div className="grid grid-cols-1 gap-6 text-[13px] text-[#ccc] md:grid-cols-3 md:items-center md:gap-3">
+      <div className="grid grid-cols-1 gap-3 text-[13px] text-[#ccc] md:grid-cols-3 md:items-center">
         <p className="text-left">Paris, Île-de-France, France</p>
         <p className="text-left md:text-center">
           © 2026 Eduarda Magnago - All the rights reserved.

@@ -208,12 +208,12 @@ export default function Home() {
         </p>
       </section>
 
-      <section id="faq" className="faq-section bg-white px-3 pb-20 pt-[40px] text-ink md:px-[30px]">
-        <h2 className="mb-[35px] mt-[15px] whitespace-nowrap text-center font-instrument text-[42px] font-normal tracking-tight text-ink md:whitespace-normal md:tracking-normal md:text-[70px]">
-          Frequently Ask Questions
-        </h2>
-        <Faq />
-      </section>
+      <section id="faq" className="faq-section bg-white px-3 pb-20 pt-[60px] text-ink md:px-[30px]">
+  <h2 className="mb-[30px] mt-[15px] whitespace-nowrap text-center font-instrument text-[42px] font-normal tracking-tight text-ink md:whitespace-normal md:tracking-normal md:text-[70px]">
+    Frequently Ask Questions
+  </h2>
+  <Faq />
+</section>
 
       <Footer />
     </>

@@ -44,7 +44,7 @@ export default function Home() {
           />
         </div>
         <div className="flex flex-col justify-center px-5 py-15 lg:flex-[0_0_66.66%] lg:px-[50px] lg:py-16">
-          <h2 className="mb-8 font-instrument text-[42px] font-normal text-ink lg:mb-5 lg:text-[60px]">
+          <h2 className="mb-5 font-instrument text-[42px] font-normal text-ink lg:text-[60px]">
             Why do we need a website?
           </h2>
           <div className="flex flex-col gap-5">
@@ -123,7 +123,7 @@ export default function Home() {
         className="flex flex-col bg-olive text-ink lg:flex-row lg:items-stretch"
       >
         <div className="flex flex-col justify-center px-5 py-15 lg:flex-[0_0_66.66%] lg:px-[50px] lg:py-16">
-          <h2 className="mb-8 font-instrument text-[42px] font-normal text-ink lg:text-[60px]">
+          <h2 className="mb- font-instrument text-[42px] font-normal text-ink lg:text-[60px]">
             Who's behind the Studio?
           </h2>
           <div className="flex flex-col gap-5">
@@ -156,8 +156,8 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="bg-sage px-5 pb-[70px] pt-[50px] md:pb-[60px] md:pt-[50px] text-ink md:px-10">
-        <h2 className="mb-12 mt-5 text-left font-instrument text-[42px] font-normal text-ink md:mb-20 md:text-center md:text-[70px]">
+      <section className="bg-sage px-5 pb-[60px] pt-[25px] md:pt-[50px] text-ink md:px-10">
+        <h2 className="mb-8 mt-5 text-left font-instrument text-[42px] font-normal text-ink md:mb-20 md:text-center md:text-[70px]">
           When I know it's time to change my website?
         </h2>
         <div className="mx-auto grid max-w-[1400px] grid-cols-1 gap-5 sm:grid-cols-[repeat(auto-fit,minmax(320px,1fr))] md:gap-[60px]">

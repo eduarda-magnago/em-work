@@ -44,7 +44,7 @@ export default function Home() {
           />
         </div>
         <div className="flex flex-col justify-center px-5 py-15 lg:flex-[0_0_66.66%] lg:px-[50px] lg:py-16">
-          <h2 className="mb-8 font-instrument text-[42px] font-normal text-ink lg:mb-5 lg:text-[60px]">
+          <h2 className="mb-5 font-instrument text-[42px] font-normal text-ink lg:text-[60px]">
             Why do we need a website?
           </h2>
           <div className="flex flex-col gap-5">
